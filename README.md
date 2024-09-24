@@ -100,6 +100,8 @@ int main() {
    - **Create an instance of the `construct` class named `constructor`.**
    - **Call the `display()` method on `constructor` to output the values of `a` and `b`.**
 
+6. **End**
+
 
 ### Copy Constructor
 
@@ -133,6 +135,8 @@ int main() {
    - **Output the area of `wall1` using `calculateArea()`.**
    - **Output the area of `wall2` using `calculateArea()`.**
 
+6. **End**
+
 
 ### Destructor
 
@@ -165,3 +169,5 @@ int main() {
        count.**
    - **Once the block is exited, the destructor for dd will be called, decrementing `count` 
      and displaying the updated count.**
+
+7. **End**
