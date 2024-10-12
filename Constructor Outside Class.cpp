@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Constructors and Destructors to Define Constructor Outside Class
+//Aim:Implementation of Constructors and Destructors to Define Constructor Outside Class
 
 #include <iostream>
 using namespace std;
