@@ -1,6 +1,6 @@
 //Name:Siddhant Kiran Bhosale
 //PRN:23070123038
-//Aim:Implemention of Constructors and Destructors to Copy Constructor
+//Aim:Implementation of Constructors and Destructors to Copy Constructor
 
 #include <iostream>
 using namespace std;
